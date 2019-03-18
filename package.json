@@ -1,14 +1,17 @@
 {
   "devDependencies": {
-    "parcel": "^1.11.0",
-    "postcss-remove-unused-css": "^1.0.3",
-    "sass": "^1.17.2"
+    "parcel": "^1.12.2",
+    "postcss-remove-unused-css": "^1.0.4",
+    "sass": "^1.17.3"
   },
   "postcss": {
     "plugins": {
       "postcss-remove-unused-css": {
         "path": "./app",
-        "exts": [".js", ".html"]
+        "exts": [
+          ".js",
+          ".html"
+        ]
       }
     }
   }
