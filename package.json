@@ -2,7 +2,7 @@
   "devDependencies": {
     "parcel": "^1.12.4",
     "postcss-remove-unused-css": "^1.0.4",
-    "sass": "^1.32.8"
+    "sass": "^1.32.13"
   },
   "postcss": {
     "plugins": {
